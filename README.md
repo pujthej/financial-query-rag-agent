@@ -1,4 +1,5 @@
 Financial Query RAG Agent
+
 A full-stack, Retrieval-Augmented Generation (RAG) agent that can explain financial concepts and analyze stock market trends — powered by LangGraph, LangChain, FastAPI, and a sleek React frontend.
 
 This project demonstrates the complete lifecycle of building and serving an LLM-based RAG agent, from development to deployment. 
